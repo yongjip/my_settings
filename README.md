@@ -8,4 +8,5 @@ git remote add origin https://github.com/yongjip/my_settings.git
                       git@github.com:yongjip/my_settings.git
 git push -u origin master
 
-1. .vimrc: vim setting
+1. .bashrc: bash setting
+2. .vimrc: vim setting
